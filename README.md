@@ -25,6 +25,8 @@ tree.postOrderTraversal(tree.root);
 ```
 Este exemplo criará uma árvore binária com os valores 10, 5, 15, 2 e 7, e em seguida chamará os métodos preOrderTraversal e postOrderTraversal para percorrer a árvore e exibir o desenho no prompt de saída.
 
+
+
 Aqui está o output do exemplo acima:
 
 ```prompt
